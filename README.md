@@ -6,6 +6,6 @@ Passionate about languages, communication, and psychology, I'm looking forward t
 
 Here you will find the main projects I have worked on using Python 🐍
 
-🎧 Track Popularity Prediction: Regression machine and deep learning project based on musical and linguistic features of a song with an emphasis on the lyrics through NLP tasks. /n 
-🚬 Binary Prediction of Smoker Status: Binary classification machine learning project for predicting the smoking status of a patient using bio-signals./n
+🎧 Track Popularity Prediction: Regression machine and deep learning project based on musical and linguistic features of a song with an emphasis on the lyrics through NLP tasks.\n 
+🚬 Binary Prediction of Smoker Status: Binary classification machine learning project for predicting the smoking status of a patient using bio-signals.\n
 🧠 Harmful Brain Activity Classification (Ongoing)
